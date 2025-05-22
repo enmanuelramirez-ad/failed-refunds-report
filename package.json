@@ -1,0 +1,21 @@
+{
+  "name": "failed-refunds-report",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@commercetools/platform-sdk": "^8.9.0",
+    "@commercetools/sdk-client": "^4.0.1",
+    "@commercetools/sdk-middleware-auth": "^8.0.1",
+    "@commercetools/sdk-middleware-http": "^8.0.1",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
